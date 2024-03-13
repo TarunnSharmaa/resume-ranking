@@ -1,6 +1,6 @@
 # Resume Ranking System
 
-## Overview
+## Overview by Author
 
 The Resume Ranking System is a powerful tool designed to streamline the recruitment process by automatically evaluating and ranking resumes based on relevant criteria.
 
